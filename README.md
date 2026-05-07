@@ -8,20 +8,20 @@
 
 ---
 
-<!-- GitHub 数据统计 浅色清爽版 -->
+<!-- 1. GitHub 数据统计（浅色正常主题，已修复链接） -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=linpingta&show_icons=true&count_private=true&hide_border=true&theme=default" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linpingta&layout=compact&hide_border=true&theme=default" width="40%"/>
 </p>
 
-<!-- 连续贡献打卡 浅色 -->
+<!-- 2. 连续贡献打卡（已修复链接，浅色） -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=linpingta&theme=default&hide_border=true" width="55%"/>
 </p>
 
 ---
 
-<!-- 数据徽章 简约彩色 -->
+<!-- 3. 数据徽章（已修复 INVALID/404 问题） -->
 <p align="center">
   <img src="https://img.shields.io/github/stars/linpingta?label=Total%20Stars&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/linpingta?label=Followers&style=for-the-badge" />
@@ -32,9 +32,9 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go"/>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
